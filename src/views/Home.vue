@@ -12,11 +12,28 @@
         Discover Kigali’s vibrant culture, scenic views, and welcoming hospitality. Start your Rwanda journey with a stroll through city markets, national parks, and historic landmarks.
       </p>
     </div>
-    <div class="flex flex-col gap-4 sm:flex-row sm:items-center">
-            <router-link to="/About" class="inline-flex w-full items-center justify-center rounded-full bg-green-800 px-4 py-3 text-white shadow-lg transition hover:bg-green-700 sm:w-auto">
-              EXPLORE US
-            </router-link>
-            </div>
+    <div class="mt-16 grid gap-8 lg:grid-cols-3">
+        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
+          <h2 class="text-xl font-bold text-green-900">Culture & Heritage</h2>
+          <p class="mt-4 text-green-700 leading-7">
+            Experience warm hospitality, traditional music, dance, and local crafts in villages and city markets across Rwanda.
+          </p>
+        </article>
+
+        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
+          <h2 class="text-xl font-bold text-green-900">Wildlife & Nature</h2>
+          <p class="mt-4 text-green-700 leading-7">
+            Track mountain gorillas, spot golden monkeys, and explore pristine forests, lakes, and rolling hills.
+          </p>
+        </article>
+
+        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
+          <h2 class="text-xl font-bold text-green-900">Adventure & Relaxation</h2>
+          <p class="mt-4 text-green-700 leading-7">
+            From hiking to lake retreats, Rwanda offers active adventures and peaceful escapes in equal measure.
+          </p>
+        </article>
+      </div>
   </div>
 </section>
 

@@ -48,10 +48,27 @@
         </article>
       </div>
 
-      
+      <div class="mt-16 rounded-3xl bg-green-900 p-10 text-white shadow-2xl">
+        <div class="grid gap-6 lg:grid-cols-3">
+          <div class="space-y-3">
+            <p class="text-sm uppercase tracking-[0.24em] text-green-300">Quick Facts</p>
+            <p class="text-4xl font-bold">26,338 km²</p>
+            <p class="text-green-200">Land area of Rwanda</p>
+          </div>
 
-         
-      
+          <div class="space-y-3">
+            <p class="text-sm uppercase tracking-[0.24em] text-green-300">Highlights</p>
+            <p class="text-4xl font-bold">12</p>
+            <p class="text-green-200">National parks and reserves</p>
+          </div>
+
+          <div class="space-y-3">
+            <p class="text-sm uppercase tracking-[0.24em] text-green-300">Visitors</p>
+            <p class="text-4xl font-bold">7+ million</p>
+            <p class="text-green-200">Tourism growth and welcoming people</p>
+          </div>
+        </div>
+      </div>
 
       <div class="mt-16 grid gap-10 lg:grid-cols-2 lg:items-center">
         <div>
