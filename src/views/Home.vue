@@ -13,25 +13,34 @@
       </p>
     </div>
     <div class="mt-16 grid gap-8 lg:grid-cols-3">
-        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
-          <h2 class="text-xl font-bold text-green-900">Culture & Heritage</h2>
-          <p class="mt-4 text-green-700 leading-7">
-            Experience warm hospitality, traditional music, dance, and local crafts in villages and city markets across Rwanda.
-          </p>
+        <article class="rounded-3xl border border-green-100 bg-green-50 overflow-hidden shadow-sm hover:shadow-md transition">
+          <img src="../assets/Rwanda.jfif" alt="Culture & Heritage" class="w-full h-48 object-cover" />
+          <div class="p-8">
+            <h2 class="text-xl font-bold text-green-900">Culture & Heritage</h2>
+            <p class="mt-4 text-green-700 leading-7">
+              Experience warm hospitality, traditional music, dance, and local crafts in villages and city markets across Rwanda.
+            </p>
+          </div>
         </article>
 
-        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
-          <h2 class="text-xl font-bold text-green-900">Wildlife & Nature</h2>
-          <p class="mt-4 text-green-700 leading-7">
-            Track mountain gorillas, spot golden monkeys, and explore pristine forests, lakes, and rolling hills.
-          </p>
+        <article class="rounded-3xl border border-green-100 bg-green-50 overflow-hidden shadow-sm hover:shadow-md transition">
+          <img src="../assets/lake.png" alt="Wildlife & Nature" class="w-full h-48 object-cover" />
+          <div class="p-8">
+            <h2 class="text-xl font-bold text-green-900">Wildlife & Nature</h2>
+            <p class="mt-4 text-green-700 leading-7">
+              Track mountain gorillas, spot golden monkeys, and explore pristine forests, lakes, and rolling hills.
+            </p>
+          </div>
         </article>
 
-        <article class="rounded-3xl border border-green-100 bg-green-50 p-8 shadow-sm">
-          <h2 class="text-xl font-bold text-green-900">Adventure & Relaxation</h2>
-          <p class="mt-4 text-green-700 leading-7">
-            From hiking to lake retreats, Rwanda offers active adventures and peaceful escapes in equal measure.
-          </p>
+        <article class="rounded-3xl border border-green-100 bg-green-50 overflow-hidden shadow-sm hover:shadow-md transition">
+          <img src="../assets/6.png" alt="Adventure & Relaxation" class="w-full h-48 object-cover" />
+          <div class="p-8">
+            <h2 class="text-xl font-bold text-green-900">Adventure & Relaxation</h2>
+            <p class="mt-4 text-green-700 leading-7">
+              From hiking to lake retreats, Rwanda offers active adventures and peaceful escapes in equal measure.
+            </p>
+          </div>
         </article>
       </div>
   </div>

@@ -1,0 +1,67 @@
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#0d0f1a;
+  color:white;
+}
+
+header{
+  background:#151824;
+  padding:40px;
+  text-align:center;
+}
+
+.school-tag{
+  color:#4fffb0;
+  font-size:14px;
+}
+
+h1 span{
+  color:#7c6aff;
+}
+
+.subtitle{
+  color:#aaa;
+}
+
+#themeBtn{
+  margin-top:15px;
+  padding:10px 20px;
+  border:none;
+  border-radius:6px;
+  background:#7c6aff;
+  color:white;
+  cursor:pointer;
+}
+
+main{
+  padding:30px;
+}
+
+.card{
+  background:#1c2035;
+  padding:20px;
+  border-radius:10px;
+  margin-bottom:20px;
+  border:1px solid #2a2f4a;
+  transition:0.3s;
+}
+
+.card:hover{
+  transform:translateY(-5px);
+}
+
+button{
+  padding:10px 15px;
+  border:none;
+  border-radius:5px;
+  background:#4fffb0;
+  cursor:pointer;
+}
+
+footer{
+  text-align:center;
+  padding:20px;
+  border-top:1px solid #2a2f4a;
+  color:#999;
+}
