@@ -56,7 +56,7 @@
             <div>
                 <h3 class="text-yellow-300 font-bold text-lg mb-3">Contact Info</h3>
                 <ul class="space-y-2 text-sm">
-                    <li>ahantu nyaburanga</li><br>
+                    <li>Agahozo Babine Zaola</li><br>
                     <li>+250791456810</li><br>
                     <li>Kagugu Kigali Rwanda</li><br>
                 </ul>
