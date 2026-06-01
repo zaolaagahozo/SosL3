@@ -55,7 +55,7 @@
 
       <!-- Card 4 -->
       <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:scale-105 transition duration-300">
-        <img src="/src/assets/Views2.png" class="w-full h-64 object-cover">
+        <img src="/src/assets/views2.png" class="w-full h-64 object-cover">
         <div class="p-5">
           <h2 class="text-2xl font-bold text-green-700">
             Inema Arts Center

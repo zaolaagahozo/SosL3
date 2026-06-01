@@ -21,7 +21,7 @@
                     <img src="../assets/REBERO.png" alt="City park" class="w-full h-56 object-cover" />
                 </div>
                 <div class="overflow-hidden rounded-2xl shadow-lg">
-                    <img src="../assets/Views2.png" alt="Local street" class="w-full h-56 object-cover" />
+                    <img src="../assets/views2.png" alt="Local street" class="w-full h-56 object-cover" />
                 </div>
             </div>
 
